@@ -1,39 +1,39 @@
 /* Add styling for your page here */
 
 .App {
-  background-color: #BBDED6;
-    padding: 5vh 10vw;
+  background-color: #bbded6;
+  padding: 5vh 10vw;
 }
 
 .flex-center {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 main {
-    display: flex;
-    position: relative;
-    width: 100%;
+  display: flex;
+  position: relative;
+  width: 100%;
 }
 
 .items {
-    padding: 5%;
-    display: flex;
-    justify-content: space-evenly;
-    gap: 15px;
-    flex-wrap:wrap;
-    width: 100%;
-    padding: flex;
+  padding: 5%;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 15px;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: flex;
 }
 
 .cart-container {
-    width: 30%;
-    position: relative;
+  width: 30%;
+  position: relative;
 }
 
 .cart {
-    position: sticky;
-    top: 10vh;
+  position: sticky;
+  top: 10vh;
 }
 
 .inner-cart {
@@ -41,26 +41,24 @@ main {
   height: 60vh;
 }
 
-
 .BakeryItem {
-    flex-shrink: 1;
-    width: 10vw;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    gap: 10px;
+  flex-shrink: 1;
+  width: 10vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
 }
-
 
 h1 {
   padding: 8px;
-    text-align: center;
+  text-align: center;
 }
 
 button {
   border-radius: 10px;
-  background-color: #FAE3D9;
-  border: 1px solid #FFACC7;
+  background-color: #fae3d9;
+  border: 1px solid #ffacc7;
   padding: 3px 10px;
 }
 /* 
